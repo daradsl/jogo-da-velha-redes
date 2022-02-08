@@ -8,5 +8,5 @@ _________
 4 | 5 | 6
 _________
 7 | 8 | 9
-Para efetuar uma jogada basta escolher por uma posição de acordo com o exemplo acima, que ainda esteja livre (em branco).
+Para efetuar uma jogada basta escolher por uma posição de acordo com o exemplo acima, que ainda esteja livre.
 O jogo acaba quando algum jogador vencer ou quando a partida empatar.
